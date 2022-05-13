@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f32a001242e240a4ab916d544963f083, type: 3}
+  m_Name: i_pick
+  m_EditorClassIdentifier: 
+  itemKey: 12
+  itemName: "\u9435\u93AC"
+  itemImage: {fileID: 21300000, guid: 8f135ab3d4ba4be4ea042850b273a1a2, type: 3}
+  itemType: 1
+  itemHeld: 0
+  itemInfo: "\u9019\u662F\u628A\u9435\u93AC\uFF0C\u80FD\u6709\u6548\u7387\u7684\u7834\u58DE\u77F3\u982D\u548C\u9435\u7926\u3002"
+  itemeqbip: 1
